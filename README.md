@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Habi Jiyan Mustaqim</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=habijm&label=Profile%20views&color=0e75b6&style=flat](https://4kwallpapers.com/images/walls/thumbs/13103.jpg)" alt="habijm" /> </p>
+<p align="left"> <img src="https://tenor.com/view/developer-xmooney-alien-code-life-coding-gif-25301196" alt="habijm" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
